@@ -1,0 +1,41 @@
+#timer{
+
+    margin: 100px 400px;
+}
+#header{
+
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    height: 30px;
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+
+#grid{
+    
+    padding: 10px 10px;
+    text-align: center;
+    align-content: center;
+}
+
+#link{
+
+    color: white;
+    text-decoration: none;
+    text-decoration-line: initial;
+    font-family:'Courier New', Courier, monospace;
+    text-align:end ;
+    float: right;
+}
+
+#link :hover{
+    opacity: 0.5;
+}
+
+a{
+
+    text-decoration: none;
+}
